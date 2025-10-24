@@ -13,7 +13,7 @@ General Readings
 
 Broughton, Philip Delves. "Hybrid Vigor." Chapter 8 in _The Art of the Sale: Learning from the Masters About the Business of Life_. Penguin Books, 2013, pp. 208–14. ISBN: 9780143122760.
 
-Poulos, Nic. "{{% resource_link "a203c89e-e61d-4d0f-8afe-939a3f59953f" "Bowery Capital Guide to Startup Sales Tools" %}}." _Bowery Capital_.
+Poulos, Nic. "[Bowery Capital Guide to Startup Sales Tools](http://www.slideshare.net/NicPoulos1/bowery-capital-guide-to-startup-sales-tools)." _Bowery Capital_.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -63,7 +63,7 @@ Making a Sales Call & Product Knowledge
 
 {{% resource_link 823d76a3-e08c-d44d-dffd-3448c00c7eff "Delphi Software (PDF)" %}}
 
-Bill Breen. "{{% resource_link "39841798-74f1-4f96-91db-e4dde385382b" "The Big Score" %}}." _Fast Company_ Issue 74. September, 2003.
+Bill Breen. "[The Big Score](http://www.fastcompany.com/47196/big-score)." _Fast Company_ Issue 74. September, 2003.
 
 
 {{< tdclose >}}
@@ -103,9 +103,9 @@ Team Selling
 {{< tdopen >}}
 
 
-Barclay, Donald, and Ken Mark. {{% resource_link "5c32611a-8756-4866-82a9-ff6e711a5083" "Microsoft Canada: Sales & Product Management Working Together" %}}. _Harvard Business Review_ 905A15, September 1, 2005.
+Barclay, Donald, and Ken Mark. [Microsoft Canada: Sales & Product Management Working Together](https://hbr.org/product/microsoft-canada-sales-product-management-working-together/905A15-PDF-ENG). _Harvard Business Review_ 905A15, September 1, 2005.
 
-Cespedes, Frank V., Stephen X. Doyle et al. "{{% resource_link "17dca461-093a-4942-820a-66ce7eed28e9" "Teamwork for Today's Selling" %}}." _Harvard Business Review_ 89205, March 1, 1989.
+Cespedes, Frank V., Stephen X. Doyle et al. "[Teamwork for Today's Selling](http://hbr.org/product/teamwork-for-todays-selling/89205-PDF-ENG?cm_sp=Article-_-Links-_-Buy%20PDF)." _Harvard Business Review_ 89205, March 1, 1989.
 
 
 {{< tdclose >}}
@@ -137,7 +137,7 @@ Channel Problems
 
 {{< tdclose >}}
 {{< tdopen >}}
-Cespedes, Frank V., and Alisa Zalosh. {{% resource_link "2bf8ddd6-0b85-41f5-8b34-9f962b197683" "FormPrint Ortho500" %}}. _Harvard Business Review_ 915535, September 9, 2014.
+Cespedes, Frank V., and Alisa Zalosh. [FormPrint Ortho500](https://hbr.org/product/formprint-ortho500/915535-PDF-ENG). _Harvard Business Review_ 915535, September 9, 2014.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +149,7 @@ Cespedes, Frank V., and Alisa Zalosh. {{% resource_link "2bf8ddd6-0b85-41f5-8b34
 Life of a Regional Sales Manager
 {{< tdclose >}}
 {{< tdopen >}}
-Leslie, Mark, James Lattin, et al. {{% resource_link "b77ad855-82f7-4d27-972c-e5eccf3749e1" "NetApp: The Day-to-Day of a District Manager" %}}. _Harvard Business Review_ E263, August 6, 2007.
+Leslie, Mark, James Lattin, et al. [NetApp: The Day-to-Day of a District Manager](https://hbr.org/product/netapp-the-day-to-day-of-a-district-manager/E263-PDF-ENG). _Harvard Business Review_ E263, August 6, 2007.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,9 +185,9 @@ Managing an Inside Sales Organization
 {{< tdopen >}}
 
 
-Lattin, James M., Kirk Bowman, et al. {{% resource_link "6cacfde5-0a2f-48ee-a435-9ba7f200b2e0" "Qualtrics: Scaling an Inside-Sales Organization" %}}. _Harvard Business Review_ E503, January 13, 2014.
+Lattin, James M., Kirk Bowman, et al. [Qualtrics: Scaling an Inside-Sales Organization](https://hbr.org/product/qualtrics-scaling-an-inside-sales-organization/E503-PDF-ENG). _Harvard Business Review_ E503, January 13, 2014.
 
-Leslie, Mark, and Charles A. Holloway. {{% resource_link "b4e9ac5e-4db9-4264-b64d-8fa5ebdcd37a" "Sales Learning Curve" %}}. _Harvard Business Review_, July-August, 2006.
+Leslie, Mark, and Charles A. Holloway. [Sales Learning Curve](https://hbr.org/2006/07/the-sales-learning-curve). _Harvard Business Review_, July-August, 2006.
 
 
 {{< tdclose >}}
@@ -233,11 +233,11 @@ Sales Force Reorganization
 {{< tdopen >}}
 
 
-Leslie, Mark, James Lattin, et al. {{% resource_link "e4f8c4b8-c89a-4375-8323-dc84f5235ad4" "VERITAS 1999 (A): Integrating Sales Forces" %}}. _Harvard Business Review_ SM120A, September 15, 2003.
+Leslie, Mark, James Lattin, et al. [VERITAS 1999 (A): Integrating Sales Forces](https://hbr.org/product/veritas-1999-a-integrating-sales-forces/SM120A-PDF-ENG). _Harvard Business Review_ SM120A, September 15, 2003.
 
-Leslie, Mark, and Tom Federico. {{% resource_link "977ae5fb-ec18-4d36-aa24-2d45ac690fa1" "VERITAS 1999 (B): Integrating Sales Forces" %}}. _Harvard Business Review_ SM120B, June 23, 2005.
+Leslie, Mark, and Tom Federico. [VERITAS 1999 (B): Integrating Sales Forces](https://hbr.org/product/veritas-1999-b-integrating-sales-forces/an/SM120B-PDF-ENG). _Harvard Business Review_ SM120B, June 23, 2005.
 
-Leslie, Mark, Erin Yurday, et al. {{% resource_link "74d3121c-cc89-418f-8c09-f7cf3a52bcda" "VERITAS 1999 (C): Integrating Sales Forces" %}}. _Harvard Business Review_ SM120C, June 23, 2005.
+Leslie, Mark, Erin Yurday, et al. [VERITAS 1999 (C): Integrating Sales Forces](https://www.gsb.stanford.edu/faculty-research/case-studies/veritas-1999-c-integrating-sales-forces). _Harvard Business Review_ SM120C, June 23, 2005.
 
 
 {{< tdclose >}}
@@ -251,7 +251,7 @@ Leslie, Mark, Erin Yurday, et al. {{% resource_link "74d3121c-cc89-418f-8c09-f7c
 Negotiating an OEM Agreement
 {{< tdclose >}}
 {{< tdopen >}}
-Leslie, Mark, James Lattin, et al. {{% resource_link "de56fe2b-0e3b-4156-af5b-75569348f520" "OuterBay and EMC" %}}. _Harvard Business Review_ E177, February 1, 2005.
+Leslie, Mark, James Lattin, et al. [OuterBay and EMC](https://hbr.org/product/outerbay-and-emc/E177-PDF-ENG). _Harvard Business Review_ E177, February 1, 2005.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,7 +263,7 @@ Leslie, Mark, James Lattin, et al. {{% resource_link "de56fe2b-0e3b-4156-af5b-75
 Managing a Salesperson in a Large Company
 {{< tdclose >}}
 {{< tdopen >}}
-Cespedes, Frank V., and John T. Gourville. {{% resource_link "a2909d06-b824-4c53-8716-2988d638343e" "Cabot Pharmaceuticals, Inc" %}}. _Harvard Business Review_ 510030, August 12, 2009.
+Cespedes, Frank V., and John T. Gourville. [Cabot Pharmaceuticals, Inc](https://hbr.org/product/cabot-pharmaceuticals-inc/510030-PDF-ENG). _Harvard Business Review_ 510030, August 12, 2009.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,7 +287,7 @@ Complex Sales Situations
 Evolution of a Sales Model
 {{< tdclose >}}
 {{< tdopen >}}
-Stevens, Mark A., Mark Leslie et al. {{% resource_link "ec421f39-4003-4b4a-adf9-e3609f1d64d8" "Jive Software" %}}. _Harvard Business Review_ E360, December 16, 2009.
+Stevens, Mark A., Mark Leslie et al. [Jive Software](https://hbr.org/product/jive-software/E360-PDF-ENG). _Harvard Business Review_ E360, December 16, 2009.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,7 +299,7 @@ Stevens, Mark A., Mark Leslie et al. {{% resource_link "ec421f39-4003-4b4a-adf9-
 Freemium Business Models
 {{< tdclose >}}
 {{< tdopen >}}
-Teixeira, Thales S., and Elizabeth Anne Watkins. {{% resource_link "ade6653c-fd85-48ec-88d6-4eaedbb73c80" "Freemium Pricing at Dropbox" %}}. _Harvard Business Review_ 514053, November 12, 2013.
+Teixeira, Thales S., and Elizabeth Anne Watkins. [Freemium Pricing at Dropbox](https://hbr.org/product/freemium-pricing-at-dropbox/514053-PDF-ENG). _Harvard Business Review_ 514053, November 12, 2013.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -337,7 +337,7 @@ Using Marketing Automation Software
 {{< tdopen >}}
 
 
-Steenburgh, Thomas. {{% resource_link "53db68a9-89fc-4531-983d-9f9c305e25fc" "Personal Selling and Sales Management" %}}. _Harvard Business Review_ 507039, November 07, 2006.
+Steenburgh, Thomas. [Personal Selling and Sales Management](https://hbr.org/product/personal-selling-and-sales-management/507039-PDF-ENG). _Harvard Business Review_ 507039, November 07, 2006.
 
 
 {{< tdclose >}}
